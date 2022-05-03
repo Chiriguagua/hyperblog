@@ -1,0 +1,25 @@
+[33mcommit 7affa28dfa68e21f413b2bb2a8b128e6c0594c31[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Emanuel Acosta Lemus <acostalemusemanuel@gmail.com>
+Date:   Sat Apr 2 22:22:29 2022 -0600
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit b4025c0c60ee46973218a38a9b1b4555cf2e22e0[m
+Author: Emanuel Acosta Lemus <acostalemusemanuel@gmail.com>
+Date:   Sat Apr 2 22:16:17 2022 -0600
+
+    Agregamos un cambio a su estatura
+
+[33mcommit e5db2c73321433e49239b67f3b9004001182eca2[m
+Author: Emanuel Acosta Lemus <acostalemusemanuel@gmail.com>
+Date:   Sat Mar 26 21:00:49 2022 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 77081946ee9e09169a2e9b008632b3475102fc6d[m
+Author: Emanuel Acosta Lemus <acostalemusemanuel@gmail.com>
+Date:   Sat Mar 26 20:55:11 2022 -0600
+
+    Este es el primer commit de este archivo
